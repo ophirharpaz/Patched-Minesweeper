@@ -36,3 +36,5 @@ I hacked Minesweeper into putting flags on all the mined squares when starting. 
 1004A66   PUSH DWORD PTR DS:[EAX*4+1005A20]
 1004A6D   JMP patched_minesweeper.010026F3
 ```
+
+![If you see this, the image did not load](https://github.com/ophirharpaz/Patched-Minesweeper/blob/master/Capture.PNG?raw=true)
